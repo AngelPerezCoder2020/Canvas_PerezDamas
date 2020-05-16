@@ -1,0 +1,38 @@
+body
+{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+h1, h2
+{
+    color: white;
+    background-color: gray;
+}
+h3
+{
+    background-color: white;
+    color: black;
+}
+#listo
+{
+    color: white;
+    background-color: gray;
+    border-radius: 25px;
+    border-color: white ;
+
+}
+#color_Lineas, #cant_Lineas
+{
+    width: 90px;
+    border-radius: 15px;
+    border-color:white;
+    text-align: center;
+    font-family: Arial;
+}
+#canvas
+{
+    border-color:red;
+    background-color: white;
+    border-radius: 10px;
+}
